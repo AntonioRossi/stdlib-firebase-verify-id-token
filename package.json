@@ -1,5 +1,5 @@
 {
-  "name": "firebase-verify-idToken",
+  "name": "stdlib_firebase_verify_idtoken",
   "version": "0.0.1",
   "description": "Service",
   "author": "rossi <antoniorossi@outlook.com>",
@@ -7,11 +7,15 @@
   "dependencies": {
     "firebase-admin": "^4.0.6"
   },
-  "private": true,
+  "repository" :{ 
+    "type" : "git", 
+    "url" : "https://github.com/AntonioRossi/stdlib-firebase-verify-id-token"
+  },
+  "private": false,
   "stdlib": {
     "name": "rossi/firebase-verify-idToken",
     "defaultFunction": "main",
     "timeout": 10000,
-    "publish": false
+    "publish": true
   }
 }

@@ -1,6 +1,6 @@
-# Your stdlib service: rossi/firebase-verify-idToken
+# Check user authentication in Firebase using <stdlib> 'Function as a Service'
 
-This is the README for your service.
+## Visit <[stdlib](https://stdlib.com/)> website for more information.
 
 A few notes;
 
@@ -55,7 +55,7 @@ This is your function definition file. The following fields can be used for
 execution configuration of specific functions within your service.
 
 `name` - The function name. This maps to an execution route over HTTP. For
-example, `rossi/firebase-verify-idToken/main` would map to the first
+example, `rossi/test/main` would map to the first
 function you've created.
 
 `description` - A brief description of the function. To provide detailed
