@@ -1,6 +1,6 @@
 {
   "name": "stdlib_firebase_verify_idtoken",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Service",
   "author": "rossi <antoniorossi@outlook.com>",
   "main": "f/main/index.js",
