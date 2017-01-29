@@ -1,0 +1,17 @@
+{
+  "name": "firebase-verify-idToken",
+  "version": "0.0.1",
+  "description": "Service",
+  "author": "rossi <antoniorossi@outlook.com>",
+  "main": "f/main/index.js",
+  "dependencies": {
+    "firebase-admin": "^4.0.6"
+  },
+  "private": true,
+  "stdlib": {
+    "name": "rossi/firebase-verify-idToken",
+    "defaultFunction": "main",
+    "timeout": 10000,
+    "publish": false
+  }
+}
